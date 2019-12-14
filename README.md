@@ -1,4 +1,5 @@
-# HLMCC_AD_IoT
-HLMCC: A Hybrid Learning Model using Clustering and Classification Approaches for Anomaly Detection in IoT.
+# HLMCC
 
-This model for anomaly detection in IoT based on R language.
+HLMCC: A Hybrid Learning Anomaly Detection Model for Unlabelled Data in Internet of Things
+
+This model for anomaly detection based on R language, and it  published in the IEEE Access journal.
